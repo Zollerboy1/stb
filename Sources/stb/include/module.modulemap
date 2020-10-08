@@ -1,0 +1,5 @@
+module stb
+{
+    umbrella header "stb.h"
+    link "stb"
+}
